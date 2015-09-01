@@ -1,8 +1,7 @@
 {
   "name": "language-rspec-plus",
   "main": "./lib/language-rspec",
-  "author": "Bernardo Farah",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "More complete RSpec language package for Atom with double quotes",
   "keywords": [
     "rspec",
