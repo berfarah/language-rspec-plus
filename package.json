@@ -1,8 +1,8 @@
 {
-  "name": "language-rspec",
+  "name": "language-rspec-plus",
   "main": "./lib/language-rspec",
-  "version": "0.3.0",
-  "description": "RSpec language package for Atom",
+  "version": "0.1.0",
+  "description": "More complete RSpec language package for Atom with double quotes",
   "keywords": [
     "rspec",
     "spec",
@@ -10,7 +10,7 @@
     "test",
     "bdd",
   ],
-  "repository": "https://github.com/paveldruzyak/language-rspec",
+  "repository": "https://github.com/berfarah/language-rspec-plus",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
