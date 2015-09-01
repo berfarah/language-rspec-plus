@@ -1,6 +1,7 @@
 {
   "name": "language-rspec-plus",
   "main": "./lib/language-rspec",
+  "author": "Bernardo Farah",
   "version": "0.1.0",
   "description": "More complete RSpec language package for Atom with double quotes",
   "keywords": [
@@ -8,7 +9,7 @@
     "spec",
     "ruby",
     "test",
-    "bdd",
+    "bdd"
   ],
   "repository": "https://github.com/berfarah/language-rspec-plus",
   "license": "MIT",
